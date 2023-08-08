@@ -12,4 +12,4 @@ This project involves:
 - JavaScript for creating burger menu animation
 ```
 ---
-[Link to the Project] (https://eduard7mar.github.io/Uber/)
+Link to the Project https://eduard7mar.github.io/Uber/
